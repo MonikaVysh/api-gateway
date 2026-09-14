@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-jose[cryptography]
+redis
+httpx
+prometheus-client
+python-multipart
+requests
+
+# Development tools
+black
+isort
+flake8
+mypy
